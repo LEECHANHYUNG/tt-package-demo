@@ -1,13 +1,14 @@
-# Handoff — 2026-08-17 17:31
+# Handoff — 2026-08-17 17:34
 
 ## 1. 오늘 한 일
 - Branch: `main`
 - 최근 커밋:
+  - cabc930 Format code with Prettier
   - c89cf89 Fix spacing in package.json license field
   - e057c98 Add package metadata, README, and MIT license
   - a847e44 Initial commit
   - 93ac5bb Initial commit
-- 변경된 파일: LICENSE.md,package-lock.json,package.json,README.md,src/utils.ts
+- 변경된 파일: .github/workflows/ci.yml,.gitignore,handoff.md,package-lock.json,package.json
 
 ## 2. 다음 세션에서 가장 먼저 할 일
 
