@@ -20,5 +20,5 @@
   ],
   "type": "module",
   "main": "dist/index.js",
-  "license" : "MIT"
+  "license": "MIT"
 }
