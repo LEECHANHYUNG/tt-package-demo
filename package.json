@@ -1,0 +1,24 @@
+{
+  "name": "@chanhyung/tt-package-demo",
+  "version": "1.0.0",
+  "description": "A demo package for Total TypeScript",
+  "keywords": [
+    "demo",
+    "typescript"
+  ],
+  "homepage": "https://github.com/LEECHANHYUNG/tt-package-demo",
+  "bugs": {
+    "url": "https://github.com/LEECHANHYUNG/tt-package-demo/issues"
+  },
+  "author": "Chanhyung LEE <lsj721538@gmail.com> (https://github.com/LEECHANHYUNG/tt-package-demo)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEECHANHYUNG/tt-package-demo.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "main": "dist/index.js",
+  "license" : "MIT"
+}
